@@ -18,7 +18,7 @@ Features include:
 
 Firmware
 --------
-The firmware is available at [github.com/kf7fer/trackuino](http://github.com/kf7fer/trackuino). It is modified from the [John Boiles Port](https://johnboiles/trackuino/) in order to support the different pin mappings used on the leoTracker (as well as support of additional hardware).
+The firmware is available at [github.com/kf7fer/trackuino](http://github.com/kf7fer/trackuino). It is modified from the [John Boiles](https://johnboiles/trackuino/) port in order to support the different pin mappings used on the leoTracker (as well as support of additional hardware).
 
 Changes to the firmware include:
 
