@@ -32,5 +32,5 @@ Bill of Materials
 
 The Bill of Materials is a bit out of date but are available as .xlsx files:
 
-![leoTracker BOM](/leoTracker_BOM.xlsx?raw=true)
-![2xAA Boost BOM](/leoBoost_BOM.xlsx?raw=true)
+![leoTracker BOM](/bom/leoTracker_BOM.xlsx?raw=true)
+![2xAA Boost BOM](/bom/leoBoost_BOM.xlsx?raw=true)
