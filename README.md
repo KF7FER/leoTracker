@@ -30,7 +30,7 @@ Changes to the firmware include:
 Bill of Materials
 -----------------
 
-The Bill of Materials is a bit out of date but are available as .xlsx files:
+The Bill of Materials is a bit out of date but should be fairly close to current:
 
 ![leoTracker BOM](/bom/leoTracker_BOM.xlsx?raw=true)
 ![2xAA Boost BOM](/bom/leoBoost_BOM.xlsx?raw=true)
