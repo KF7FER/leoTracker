@@ -27,6 +27,16 @@ Changes to the firmware include:
 - Support for the Dallas DS18b20 temperature sensors (two are supported)
 - Added support for the NiceRF SA818 radio module
 
+Powering the leoTracker
+--------
+
+The board may be powered by the following methods:
+
+- Add-on TI TPS61202 Boost converter (![The Pololu U1V10F3](http://www.pololu.com/product/2563))
+- 2xAA Boost converter board (files available w/ leoTracker)
+- 3.3v LDO board (this is for vehicle/aircraft use) for 5-20v power sources
+- A LiPoly/Solar board is currently under development)
+
 Bill of Materials
 -----------------
 
