@@ -5,7 +5,7 @@ Small AVR-based standalone APRS Tracker for [Trackuino](http://www.trackuino.org
 
 ![leoTracker Front](/img/leoFront.jpg?raw=true)
 
-This board was designed to be fairly inexpensive (BOM is $50 depending upon power source), small (1.25"x2.85"), light (under 20g depending upon configuration), and offer some features not yet available on other trackers.
+This board was designed to be fairly inexpensive (BOM is $50 depending upon power source), small (1.25"x2.85"), light (under 17g depending upon configuration), and offer some features not yet available on other trackers.
 
 Features include:
 
@@ -18,7 +18,7 @@ Features include:
 
 Firmware
 --------
-The firmware is available at [github.com/kf7fer/trackuino](http://github.com/kf7fer/trackuino). It is modified from the [John Boiles](https://johnboiles/trackuino/) port in order to support the different pin mappings used on the leoTracker (as well as support of additional hardware).
+The firmware is available at [github.com/kf7fer/trackuino](http://github.com/kf7fer/trackuino). It is modified from the [John Boiles](https://johnboiles/trackuino/) port in order to support the different pin mappings used on the leoTracker (as well as support of additional hardware).  This is, of course, based on EA5HAV's original [Trackuino](https://code.google.com/p/trackuino/)
 
 Changes to the firmware include:
 
@@ -27,3 +27,10 @@ Changes to the firmware include:
 - Support for the Dallas DS18b20 temperature sensors (two are supported)
 - Added support for the NiceRF SA818 radio module
 
+Bill of Materials
+-----------------
+
+The Bill of Materials is a bit out of date but are available as .xlsx files:
+
+![leoTracker BOM](/leoTracker_BOM.xlsx?raw=true)
+![2xAA Boost BOM](/leoBoost_BOM.xlsx?raw=true)
