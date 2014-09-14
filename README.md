@@ -5,7 +5,9 @@ Small AVR-based standalone APRS Tracker for [Trackuino](http://www.trackuino.org
 
 ![leoTracker Front](/img/leoFront.jpg?raw=true)
 
-This board was designed to be fairly inexpensive (BOM is $50 depending upon power source), small (1.25"x2.85"), light (under 17g depending upon configuration), and offer some features typically not available on other trackers.  A ready to fly leoTracker (sans antenna) often weighs less than the power supply needed for other commercial APRS trackers.
+This board was designed to be fairly inexpensive (BOM is $50 depending upon power source), small (1.25"x2.85"), light (under 17g depending upon configuration), and offer some features typically not available on other trackers.  
+
+A ready to fly leoTracker (sans antenna) often weighs less than the power supply needed for other commercial APRS trackers.
 
 Features include:
 
