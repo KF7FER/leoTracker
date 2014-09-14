@@ -42,7 +42,7 @@ The board may be powered by the following methods:
 Bill of Materials
 -----------------
 
-The Bill of Materials is a bit out of date but should be fairly close to current:
+The Bill of Materials is a bit out of date but should be fairly close
 
 ![leoTracker BOM](/bom/leoTracker_BOM.xlsx?raw=true)
 ![2xAA Boost BOM](/bom/leoBoost_BOM.xlsx?raw=true)
