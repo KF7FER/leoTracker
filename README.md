@@ -3,7 +3,7 @@ leoTracker
 
 Small AVR-based standalone APRS Tracker for [Trackuino](http://www.trackuino.org/)
 
-![leoTracker Front](/img/leoFront.jpg?raw=true)
+![leoTracker Front](/img/leoTrackerRevG_FrontSmall.jpg?raw=true)
 
 This board was designed to be fairly inexpensive (BOM is $50 depending upon power source), small (1.25"x2.85"), light (under 17g depending upon configuration), and offer some features typically not available on other trackers.  
 
