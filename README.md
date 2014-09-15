@@ -18,6 +18,10 @@ Features include:
 - microSD socket for data logging/board configuration
 - NiceRF SA818 2m radio module (frequency agile; multiple power levels)
 
+Status
+--------
+I hope to make a small quantity of these trackers available assembled and ready to use within the next month.  They are scheduled to make their inital debut at [SwapToberfest](http://swaptoberfest.net/wordpress/) so come see them in action!
+
 Firmware
 --------
 The firmware is available at [github.com/KF7FER/trackuino](https://github.com/KF7FER/trackuino). It is modified from the [John Boiles](https://github.com/johnboiles/trackuino) port in order to support the different pin mappings used on the leoTracker (as well as support of additional hardware).  This is, of course, based on EA5HAV's original [Trackuino](https://code.google.com/p/trackuino/)
@@ -28,6 +32,12 @@ Changes to the firmware include:
 - Support for the on-board microSD card (still a work in progress)
 - Support for the Dallas DS18b20 temperature sensors (two are supported)
 - Added support for the NiceRF SA818 radio module
+
+I/O Pin Usage
+--------
+Here is a document listing I/O pin usage for leoTracker
+
+![leoTracker BOM](/board/PinDefs.xlsx?raw=true)
 
 Powering the leoTracker
 --------
