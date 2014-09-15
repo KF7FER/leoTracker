@@ -20,7 +20,9 @@ Features include:
 
 Status
 --------
-I hope to make a small quantity of these trackers available assembled and ready to use within the next month.  They are scheduled to make their inital debut at [SwapToberfest](http://swaptoberfest.net/wordpress/) so come see them in action!
+I'm currently testing the Revision "H" boards (available under the 'boards' subdirectory).
+
+I hope to have a small quantity of these trackers available assembled and ready to use within the next month.  They are scheduled to make their inital debut at [Swaptoberfest](http://swaptoberfest.net/wordpress/) so come see them in action!
 
 Firmware
 --------
