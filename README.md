@@ -35,7 +35,7 @@ Changes to the firmware include:
 
 I/O Pin Usage
 --------
-Here is a document listing I/O pin usage for leoTracker
+Here is a document listing I/O pin usage for the different leoTracker versions
 
 ![leoTracker BOM](/board/PinDefs.xlsx?raw=true)
 
