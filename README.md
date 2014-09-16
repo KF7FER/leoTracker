@@ -24,6 +24,8 @@ I'm currently testing the Revision "H" boards (available under the 'boards' subd
 
 I hope to have a small quantity of these trackers available assembled and ready to use within the next month.  They are scheduled to make their inital debut at [Swaptoberfest](http://swaptoberfest.net/wordpress/) so come see them in action!
 
+If you'd like to get your own leoTracker drop me an e-mail.  I'm also looking for people to help beta test the newest releases.
+
 Firmware
 --------
 The firmware is available at [github.com/KF7FER/trackuino](https://github.com/KF7FER/trackuino). It is modified from the [John Boiles](https://github.com/johnboiles/trackuino) port in order to support the different pin mappings used on the leoTracker (as well as support of additional hardware).  This is, of course, based on EA5HAV's original [Trackuino](https://code.google.com/p/trackuino/)
