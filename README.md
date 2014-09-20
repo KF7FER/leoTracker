@@ -11,20 +11,23 @@ A ready to fly leoTracker (sans antenna) often weighs less than the power supply
 
 Features include:
 
-- On-board ublox MAX-7/8 GPS w/ chip antenna
+- ublox MAX-7/8 GPS w/ chip antenna
 - Multiple Power options including boost converter (2xAA operation)
 - Atmel (AVR) 32u4 Processor (same as in the Arduino Leonardo - hence the "leo")
 - On-board USB for easy firmware updates
 - microSD socket for data logging/board configuration
+- DS18b20 temperature sensor (and connection for off-board sensor)
 - NiceRF SA818 2m radio module (frequency agile; multiple power levels)
 
 Status
 --------
-I'm currently testing the Revision "H" boards (available under the 'boards' subdirectory).
+I'm currently testing the Revision "H" boards (available under the 'boards' subdirectory) but I can verify that they do appear to work.
 
-I hope to have a small quantity of these trackers available assembled and ready to use within the next month.  They are scheduled to make their inital debut at [Swaptoberfest](http://swaptoberfest.net/wordpress/) so come see them in action!
+I also updated the SA818 footprint in the Eagle part.  A couple of the pads on the left edge (the end with only 4 pins) didn't fit 100% and I always had to contort the soldering iron to get a decent connection.
 
-If you'd like to get your own leoTracker drop me an e-mail.  I'm also looking for people to help beta test the newest releases.
+I have a very small quantity of the trackers assembled and available right now.  They are scheduled to make their initial debut at [Swaptoberfest](http://swaptoberfest.net/wordpress/) so come see them in action!
+
+If you'd like to get your own leoTracker drop me an e-mail.  I'm also looking for people to help beta test the new boards as well.
 
 Firmware
 --------
