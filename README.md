@@ -19,15 +19,20 @@ Features include:
 - DS18b20 temperature sensor (and connection for off-board sensor)
 - NiceRF SA818 2m radio module (frequency agile; multiple power levels)
 
+
+The leoTracker ONE
+------------------
+
+This is a test version of the leoTracker with an on-board single "AA" battery.  Testing has shown that despite running the SA818 just outside of the published specifications, the leoTracker will function correctly for 11+ hours.  It also has a few changes to support soldering the antenna directly to the PCB to reduce overall payload weight.
+
+
 Status
 --------
-I'm currently testing the Revision "H" boards (available under the 'boards' subdirectory) but I can verify that they do appear to work.
 
-I also updated the SA818 footprint in the Eagle part.  A couple of the pads on the left edge (the end with only 4 pins) didn't fit 100% and I always had to contort the soldering iron to get a decent connection.
+I just submitted the Revision "J" boards to fabrication and will post the results here.  The primary changes were a slightly changed footprint for the SA818; I changed the crystal footprint to match the part specified in the BOM (which actually has better low-temperature performance); and I cleaned up the silkscreen for fabrication.
 
-I have a very small quantity of the trackers assembled and available right now.  They are scheduled to make their initial debut at [Swaptoberfest](http://swaptoberfest.net/wordpress/) so come see them in action!
+Since those are very minor changes I don't expect any problems but I'll update this as soon as I get the boards back in my hands.
 
-If you'd like to get your own leoTracker drop me an e-mail.  I'm also looking for people to help beta test the new boards as well.
 
 Firmware
 --------
@@ -40,11 +45,13 @@ Changes to the firmware include:
 - Support for the Dallas DS18b20 temperature sensors (two are supported)
 - Added support for the NiceRF SA818 radio module
 
+
 I/O Pin Usage
 --------
 Here is a document listing I/O pin usage for the different leoTracker versions
 
 ![leoTracker BOM](/board/PinDefs.xlsx?raw=true)
+
 
 Powering the leoTracker
 --------
@@ -55,6 +62,7 @@ The board may be powered by the following methods:
 - 2xAA Boost converter board (files available w/ leoTracker)
 - 3.3v LDO board (this is for vehicle/aircraft use) for 5-20v power sources
 - A LiPoly/Solar board is currently under development
+
 
 Bill of Materials
 -----------------
